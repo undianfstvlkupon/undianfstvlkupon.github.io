@@ -1,0 +1,2 @@
+grep -rl "undianfstvlkupon" . | xargs sed -i "s/undianfstvlkupon/new-name/g"
+grep -rl "undianfstvlkupon" . | xargs sed -i "s/undianfstvlkupon/New Name/g"
